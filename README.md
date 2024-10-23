@@ -50,7 +50,8 @@ tarea-api/
 │
 ├── README.md
 ├── requirements.txt
-└── docker-compose.yml
+├──docker-compose.yml
+└── ARCHITECTURE.md
 ```
 
 - `app/`: Contiene el código principal de la aplicación.
@@ -58,6 +59,8 @@ tarea-api/
 - `README.md`: Este archivo, con instrucciones y documentación.
 - `requirements.txt`: Lista de dependencias del proyecto.
 - `docker-compose.yml`: Configuración de Docker para el proyecto.
+- `ARCHITECTURE.md`: Descripción de los patrones de arquitectura y diseño utilizados en el proyecto.
+
 
 ## Ejecución de la API
 
@@ -173,12 +176,6 @@ Aquí tienes un ejemplo de ejercicio que puede evaluar las habilidades necesaria
 - Asegurarse de que el código siga las mejores prácticas de Python y FastAPI.
 - Incluir comentarios que expliquen las partes clave del código.
 
-### Evaluación:
-
-1. **Funcionalidad:** ¿Cumple la API con los requisitos especificados?
-2. **Calidad del Código:** ¿Está el código bien estructurado, limpio y fácil de leer?
-3. **Pruebas:** ¿Se han implementado pruebas unitarias efectivas?
-4. **Documentación:** ¿El README proporciona instrucciones claras y concisas?
 
 ## Contribuir
 
